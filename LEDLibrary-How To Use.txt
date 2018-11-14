@@ -1,0 +1,2 @@
+In this library, we have included the five user functions and three developer use function. This library is about LED's, it is perfectly working with 4 LED's. 
+You can add more LED's in your project by making just a slight change in this library code. This is beginners level library for new programmer. I hope you find it useful. 
